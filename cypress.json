@@ -2,5 +2,6 @@
     "baseUrl": "https://notes-serverless-app.com",
     "defaultCommandTimeout": 10000,
     "experimentalSessionSupport": true,
-    "chromeWebSecurity": false
+    "chromeWebSecurity": false,
+    "experimentalStudio": true
 }
