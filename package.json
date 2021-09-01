@@ -1,8 +1,7 @@
 {
   "name": "curso-testes-e2e-com-cypress",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Sample project to demonstrate e2e tests written with Cypress running on GitHub Actions",
   "scripts": {
     "test": "cypress run --record --tag 'desktop'",
     "lint": "eslint cypress/**/*.js",
@@ -17,7 +16,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/giselerosa/curso-testes-e2e-com-cypress/issues"
   },
