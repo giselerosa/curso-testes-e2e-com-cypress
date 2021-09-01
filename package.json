@@ -23,6 +23,7 @@
   "homepage": "https://github.com/giselerosa/curso-testes-e2e-com-cypress#readme",
   "devDependencies": {
     "cypress": "^8.2.0",
+    "cypress-dark": "^1.8.0",
     "cypress-file-upload": "^5.0.8",
     "cypress-grep": "^2.5.3",
     "cypress-iframe": "^1.0.1",
