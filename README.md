@@ -16,7 +16,7 @@ To run this project, you will need:
 
 **Note:** When installing nodejs, NPM is automatically installed too.
 
-#:robot: Installation
+:robot: Installation
 =============
 
 To install the dev dependencies:  run `npm install` (or `npm i` for short.)
@@ -43,7 +43,8 @@ Run `npm test` (or `npm t` for short) to run all tests in headless mode using a 
 
 Run `npm run test:tablet` to run the appropriate tests in headless mode using a tablet viewport.
 
-### Interactive mode
+:film_projector: Interactive mode
+=============
 
 Run `npm run cy:open` to open the Cypress Test Runner to run tests in interactive mode using a desktop viewport.
 
